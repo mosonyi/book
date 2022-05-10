@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # integritee-book
 
 TEST2 central hub for mdbook documentation about Integritee
