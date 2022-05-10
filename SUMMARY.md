@@ -30,10 +30,6 @@
   * [Trusted Execution](src/trusted\_execution.md)
   * [Use Case CDN Subscriptions](src/use\_case\_cdn.md)
   * [What to use TEEs for](src/what\_for.md)
-
-## Group 1
-
-* [Learn](group-1/learn/README.md)
-  * [Introduction](group-1/learn/introduction/README.md)
-    * [Test Link](https://integritee.network)
-    * [New document](group-1/learn/introduction/new-document.md)
+* [Learn](learn/README.md)
+  * [Introduction](learn/introduction/README.md)
+    * [Test Page](learn/introduction/test-page.md)
