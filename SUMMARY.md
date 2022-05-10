@@ -3,7 +3,6 @@
 * [integritee-book](README.md)
 * [src](src/README.md)
   * [Summary](src/SUMMARY.md)
-  * [Benchmark](src/benchmarks.md)
   * [Code Documentation for M4](src/code\_documentation.md)
   * [Design](src/design.md)
   * [Glossary](src/glossary.md)
